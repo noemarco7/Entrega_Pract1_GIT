@@ -28,7 +28,7 @@ git branch
 git branch Rama2
 
 9-MOVERSE A LA RAMA QUE NOS INTERESA
-git checkout javascript Rama2
+git checkout Rama2
 
 
 
